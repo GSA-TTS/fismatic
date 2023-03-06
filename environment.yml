@@ -12,4 +12,4 @@ dependencies:
   - plotly=3
   - pytest
   - rope
-  - spacy=2
+  - spacy=3

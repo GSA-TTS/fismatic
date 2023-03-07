@@ -13,3 +13,5 @@ matrix.csv
 out/
 .ipynb_checkpoints/
 *.sqlite
+SSPs/
+.env

@@ -9,7 +9,8 @@ dependencies:
       - autoflake
       - black
       - python-docx>0.8,<1
+      - python-dotenv
   - plotly=3
   - pytest
   - rope
-  - spacy=2
+  - spacy=3

@@ -18,3 +18,4 @@ def scrub_output_pre_save(model, **kwargs):
 
 
 c.ContentsManager.pre_save_hook = scrub_output_pre_save
+c.ContentsManager.allow_hidden = True

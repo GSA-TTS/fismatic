@@ -36,6 +36,7 @@ Project tasks are tracked in [GitHub issues](https://github.com/uscensusbureau/f
 
 ## Running
 
+1. Download all SSPs and place it in the base directory entitled './SSPs'
 1. Download an SSP as a `.docx` based on the [FedRAMP template](https://www.fedramp.gov/templates/).
    - The [Azure Blueprint FedRAMP High SSP](https://www.microsoft.com/en-us/trustcenter/compliance/fedramp) is a good one to test with.
 1. Start the Jupyter Notebook.
